@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello there 👋
 
+I'm a computer science student that likes to develop games. 
+
+I often work on the platform Roblox. 
+
+I'm open to learning lots of new knowledge to expand my ideas.
 <!--
 **Denched/Denched** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
