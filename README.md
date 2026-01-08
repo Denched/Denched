@@ -1,10 +1,5 @@
-## Hello there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=cba6f7&background=FFFFFF00&repeat=false&size=30&lines=%F0%9F%91%8B+hi%2C+I%27m+Denched.)](https://git.io/typing-svg)
 
-I'm a computer science student that likes to develop games. 
-
-I often work on the platform Roblox. 
-
-I'm open to learning lots of new knowledge to expand my ideas.
 <!--
 **Denched/Denched** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
